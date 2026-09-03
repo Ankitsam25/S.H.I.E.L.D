@@ -279,6 +279,18 @@ S.H.I.E.L.D. is a research/academic project. It should not be deployed as a repl
 GitHub:
 `https://github.com/Ankitsam25`
 
+- **Aryan-rtp**  
+  GitHub: `https://github.com/Aryan-rtp`
+
+- **Ankushx24**  
+  GitHub: `https://github.com/Ankushx24`
+
+- **Ansh366239**  
+  GitHub: `https://github.com/Ansh366239`
+
+- **ankitsinghyadav0**  
+  GitHub: `https://github.com/ankitsinghyadav0`
+
 ---
 
 ## License
